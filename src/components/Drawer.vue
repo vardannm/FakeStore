@@ -1,6 +1,6 @@
 <script setup>
 import DrawerHead from './DrawerHead.vue'
-import CartItemList from './CartItemList.vue'
+
 </script>
 
 <template>
